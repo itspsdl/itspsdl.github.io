@@ -83,6 +83,22 @@
 gitおよびGithubの簡単な使い方については演習中で説明するが，ある程度参考書やサイトで学んでおくことが望ましい．
 また各自Githubアカウントを作成しておく必要がある．</p>
 
+<p>講義スライドのコピーを入手するには以下のようにgit cloneコマンドを使う．</p>
+
+<pre><code>git clone https://github.com/itspsdl/slides.git
+</code></pre>
+
+<p>Githubのログインに二段階認証を用いている場合は，個別パスワードを生成するか，以下のようにssh経由でcloneを行う．</p>
+
+<pre><code>git clone git@github.com:itspsdl/slides.git
+</code></pre>
+
+<p>新しいスライドが付け加えられたとき，あるいはスライドに修正があった時の更新は，以下のようにgit pullで行う．</p>
+
+<pre><code>cd /path/to/slides
+git pull
+</code></pre>
+
 <h2>
 <a id="成績" class="anchor" href="#%E6%88%90%E7%B8%BE" aria-hidden="true"><span class="octicon octicon-link"></span></a>成績</h2>
 
