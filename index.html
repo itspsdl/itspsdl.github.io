@@ -77,29 +77,6 @@
 また，同講義で学習する内容は本演習を行う上で非常に役立つため，両方の履修を強く勧める．</p>
 
 <h2>
-<a id="講義資料" class="anchor" href="#%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99" aria-hidden="true"><span class="octicon octicon-link"></span></a>講義資料</h2>
-
-<p>スライド等の資料，例題等は全て本Githubグループ(itspsdl)を通して配布する．
-gitおよびGithubの簡単な使い方については演習中で説明するが，ある程度参考書やサイトで学んでおくことが望ましい．
-また各自Githubアカウントを作成しておく必要がある．</p>
-
-<p>講義スライドのコピーを入手するには以下のようにgit cloneコマンドを使う．</p>
-
-<pre><code>git clone https://github.com/itspsdl/slides.git
-</code></pre>
-
-<p>Githubのログインに二段階認証を用いている場合は，個別パスワードを生成するか，以下のようにssh経由でcloneを行う．</p>
-
-<pre><code>git clone git@github.com:itspsdl/slides.git
-</code></pre>
-
-<p>新しいスライドが付け加えられたとき，あるいはスライドに修正があった時の更新は，以下のようにgit pullで行う．</p>
-
-<pre><code>cd /path/to/slides
-git pull
-</code></pre>
-
-<h2>
 <a id="成績" class="anchor" href="#%E6%88%90%E7%B8%BE" aria-hidden="true"><span class="octicon octicon-link"></span></a>成績</h2>
 
 <p>最終日に行う個人プロジェクトにもとづいて評価する．</p>
@@ -126,16 +103,54 @@ git pull
 </ol>
 
 <h2>
+<a id="講義資料" class="anchor" href="#%E8%AC%9B%E7%BE%A9%E8%B3%87%E6%96%99" aria-hidden="true"><span class="octicon octicon-link"></span></a>講義資料</h2>
+
+<p>スライド等の資料，例題等は全て本Githubグループ(itspsdl)を通して配布する．
+gitおよびGithubの簡単な使い方については演習中で説明するが，ある程度参考書やサイトで学んでおくことが望ましい．
+講義スライドを含む一部のレポジトリは非公開としている．
+これらにアクセスするためにはGithubグループitspsdlのメンバであるGithubアカウントが必要である．</p>
+
+<h3>
+<a id="講義スライド" class="anchor" href="#%E8%AC%9B%E7%BE%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89" aria-hidden="true"><span class="octicon octicon-link"></span></a>講義スライド</h3>
+
+<p>講義スライドのコピーを入手するには以下のようにgit cloneコマンドを使う．</p>
+
+<pre><code>git clone https://github.com/itspsdl/slides.git
+</code></pre>
+
+<p>Githubのログインに二段階認証を用いている場合は，個別パスワードを生成するか，ssh経由でcloneを行う．
+この場合cloneコマンドの引数は以下のようになる．</p>
+
+<pre><code>git clone git@github.com:itspsdl/slides.git
+</code></pre>
+
+<p>以上でカレントディレクトリにslidesというサブディレクトリが作成される．
+ディレクトリ名を自分で指定したい場合は例えば以下のようにする．</p>
+
+<pre><code>git clone https://github.com/itspsdl/slides.git sdl_slides
+</code></pre>
+
+<p>cloneコマンドの後でディレクトリ名を変えたり，別の場所に移動してもよい．</p>
+
+<p>新しいスライドが付け加えられたときやスライドに修正があったときの更新は，以下のようにgit pullで行う．</p>
+
+<pre><code>cd /path/to/slides
+git pull
+</code></pre>
+
+<h2>
 <a id="関連参考サイト" class="anchor" href="#%E9%96%A2%E9%80%A3%E5%8F%82%E8%80%83%E3%82%B5%E3%82%A4%E3%83%88" aria-hidden="true"><span class="octicon octicon-link"></span></a>関連・参考サイト</h2>
 
 <ul>
-<li>本演習のGithubアカウント: <a href="http://github.com/itspsdl">http://github.com/itspsdl</a>
+<li>本演習のGithubアカウント: <a href="http://github.com/itspsdl/">http://github.com/itspsdl/</a>
 </li>
-<li>IT特別教育研究コース: <a href="http://www.itpro.titech.ac.jp">http://www.itpro.titech.ac.jp</a>
+<li>IT特別教育研究コース: <a href="http://www.itpro.titech.ac.jp/">http://www.itpro.titech.ac.jp/</a>
 </li>
-<li>Android Developers: <a href="http://developer.android.com">http://developer.android.com</a>
+<li>Android Developers: <a href="http://developer.android.com/">http://developer.android.com/</a>
 </li>
-<li>Pro Git: <a href="http://git-scm.com/book/en/v2">http://git-scm.com/book/en/v2</a>
+<li>Android Open Source Project: <a href="https://source.android.com/">https://source.android.com/</a>
+</li>
+<li>Pro Git: <a href="http://git-scm.com/book/en/v2/">http://git-scm.com/book/en/v2/</a>
 </li>
 </ul>
       </section>
