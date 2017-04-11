@@ -2,7 +2,7 @@ title: ITSP Workshop on Software Development (2017)
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
