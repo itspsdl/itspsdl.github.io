@@ -1,9 +1,9 @@
 # ソフトウェア開発演習 (IT特別教育プログラム科目)
 
 ## お知らせ
-* スライドは http://github.com/itspsdl/slides で配布します．これはプライベートリポジトリなのでorganizationに参加していないとアクセスできません．(4/2)
-* 演習中はインターネット接続が必要になります．開発用のラップトップPCで学内無線LAN接続サービスを利用できるように設定しておいてください．(4/2)
-* 教材(Androidタブレット)貸与時に渡した資料にしたがって初期設定を済ませておいてください．(4/2)
+* スライドは [http://github.com/itspsdl/slides](http://github.com/itspsdl/slides) で配布します．これはプライベートリポジトリなのでorganizationに参加していないとアクセスできません．(4/12)
+* 演習中はインターネット接続が必要になります．開発用のラップトップPCで学内無線LAN接続サービスを利用できるように設定しておいてください．(4/10)
+* 教材(Androidタブレット)貸与時に渡した資料にしたがって初期設定を済ませておいてください．(4/10)
 * 初回は4月13日(金) 5-8限にW371講義室で行います．(4/2)
 
 ## 担当
@@ -62,8 +62,8 @@ cloneコマンドの後でディレクトリ名を変えたり，別の場所に
 
 
 ## 関連・参考サイト
-* 本演習のGithubアカウント: http://github.com/itspsdl/
-* IT特別教育プログラム(ITSP): http://www.itpro.titech.ac.jp/
-* Android Developers: http://developer.android.com/
-* Android Open Source Project: https://source.android.com/
-* Pro Git: http://git-scm.com/book/ja/v2/
+* 本演習のGithubアカウント: [http://github.com/itspsdl/](http://github.com/itspsdl/)
+* IT特別教育プログラム(ITSP): [http://www.itpro.titech.ac.jp/](http://www.itpro.titech.ac.jp/)
+* Android Developers: [http://developer.android.com/](http://developer.android.com/)
+* Android Open Source Project: [https://source.android.com/](https://source.android.com/)
+* Pro Git: [http://git-scm.com/book/ja/v2/](http://git-scm.com/book/ja/v2/)
