@@ -67,3 +67,4 @@ cloneコマンドの後でディレクトリ名を変えたり，別の場所に
 * Android Developers: [http://developer.android.com/](http://developer.android.com/)
 * Android Open Source Project: [https://source.android.com/](https://source.android.com/)
 * Pro Git: [http://git-scm.com/book/ja/v2/](http://git-scm.com/book/ja/v2/)
+* Androidアプリのセキュア設計・セキュアコーディングガイド: [https://www.jssec.org/report/securecoding.html](https://www.jssec.org/report/securecoding.html)
