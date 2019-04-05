@@ -1,8 +1,5 @@
-title: ITSP Workshop on Software Development (2018)
-description: 
-google_analytics: 
+title: ITSP Workshop on Software Development (2019)
+description:
+google_analytics:
 show_downloads: true
 theme: jekyll-theme-midnight
-
-gems:
-  - jekyll-mentions
