@@ -7,9 +7,7 @@ layout: default
 
 ## お知らせ
 
-* 演習中はインターネット接続が必要になります．開発用のラップトップPCで学内無線LAN接続サービスを利用できるように設定しておいてください．(4/5)
-* 教材（Android端末）貸与時に渡した資料に従って，初期設定を済ませておいてください．(4/5)
-* 初回は4月12日（金）7-10限にW371講義室で行います．(4/5)
+* 授業はZoomで行います．初回は5月8日（金）です．
 
 ## 担当
 
@@ -17,8 +15,8 @@ layout: default
 
 ## 講義時間・講義室
 
-* 金曜日 7-10限（15:05-18:20）
-* W371講義室
+* 講義室：Zoom
+* 金曜日 7-10限（15:25-18:55）
 
 ## 講義の概要とねらい
 
@@ -43,18 +41,6 @@ IT特別教育プログラム科目の学生を対象とする．
 
 * 演習課題
 * 個人プロジェクト
-
-## 個人プロジェクト発表会（デモ）
-
-以下の日程で個人プロジェクト発表会を行います．
-* 日時：2019年7月1日(月) 16:50-，7月2日(火) 16:50-
-* 場所：情報工学系会議室（大岡山西8号館E棟10階）
-* [プログラム](https://github.com/itspsdl/Demo2019)
-
-当日は，各自7分程度で製作物について以下の内容のプレゼンテーションを行っていただきます．
-* 概要：何をするアプリケーションか，どう便利なのか等
-* 技術：用いているテクノロジ，実装上の工夫等
-* デモ：実際に動作させてみてアピール
 
 ## 講義資料
 
@@ -89,7 +75,7 @@ GitHubのログインに二段階認証を用いている場合は，個別パ�
 ## 関連・参考サイト
 
 * 本演習のGithubアカウント: [https://github.com/itspsdl/](https://github.com/itspsdl/)
-* IT特別教育プログラム(ITSP): [http://www.itpro.titech.ac.jp/](http://www.itpro.titech.ac.jp/)
+* IT特別教育プログラム（ITSP）: [http://www.itpro.titech.ac.jp/](http://www.itpro.titech.ac.jp/)
 * Android Developers: [https://developer.android.com/](https://developer.android.com/)
 * Android Open Source Project: [https://source.android.com/](https://source.android.com/)
 * Pro Git: [https://git-scm.com/book/ja/v2/](https://git-scm.com/book/ja/v2/)
